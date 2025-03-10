@@ -3,7 +3,6 @@ What is the area of Iceland?
 100,000 km2
 40,000 km2
 300,000 km2
-Mark 0.00 out of 1.00
 ANSWER: 100,000 km2
 
 In the first paragraph, what best paraphrases the sentence "Despite its small size, there are many reasons to visit this remarkable country"?
@@ -11,7 +10,6 @@ There are many reasons this country is considered to be too small to visit.
 There are a lot of attractions in this interesting country, even though it is so small.
 This is an unusual country to visit because it is so small.
 Small countries are usually perceived as boring, but Iceland is different.
-Mark 0.00 out of 1.00
 ANSWER: There are a lot of attractions in this interesting country, even though it is so small.
 
 Which is the best place to go if you like to party?
@@ -35,7 +33,6 @@ muscles
 temperature
  stress
 illnesses
-Mark 0.00 out of 1.00
 ANSWER: stress
 
 In which space (marked A, B, C and D in the passage) will the following sentence fit?
@@ -52,7 +49,6 @@ dangerously separated
 strangely beautiful
 quietly formed 
 easily seen
-Mark 0.00 out of 1.00
 ANSWER: easily seen
 
 What is the Golden Circle?
@@ -60,7 +56,6 @@ the most popular area to visit in Reykjavik's city center
 a scenic walk around the Blue Lagoon
 a pathway that connects a park, a waterfall, and hot springs
 a road that goes around the coast of Iceland
-Mark 0.00 out of 1.00
 ANSWER: a pathway that connects a park, a waterfall, and hot springs
 
 Where is the mid-Atlantic fault most noticeable?
@@ -68,7 +63,6 @@ Reykjavik
 the Blue Lagoon
 Thingvellir Valley
 Geysir
-Mark 0.00 out of 1.00
 ANSWER: Thingvellir Valley
 
 According to the passage, which argument presupposes that fear of capital punishment will prevent some people from committing murder? 
@@ -76,7 +70,6 @@ The deterrent argument
 The retributive argument
 The protection argument
 All of the above
-Mark 0.00 out of 1.00
 ANSWER: The deterrent argument
 
 It can be inferred that the author believes 
@@ -92,7 +85,6 @@ Because there is no statistical evidence that capital punishment deters murder
 Because it wrongly presupposes that people are capable of free choices
 Because execution is less effective than long-term imprisonment
 Because it presupposes that there is no risk of putting innocent people to death
-Mark 0.00 out of 1.00
 ANSWER: Because there is no statistical evidence that capital punishment deters murder
 
 The word “wager” in paragraph 2 is closest in meaning to 
@@ -100,7 +92,6 @@ gamble
 practice
 possibility
 argument
-Mark 0.00 out of 1.00
 ANSWER: gamble
 
 According to the author, what is the problem with the protection argument? 
@@ -108,7 +99,6 @@ Long-term incarceration is very expensive.
 It is based on the premise that some murderers are too dangerous to be around other people.
 It does not make sense to apply it only to murders.
 None of the above.
-Mark 0.00 out of 1.00
 ANSWER: It does not make sense to apply it only to murders.
 
 The word “conspicuous” in paragraph 3 could best be replaced by 
@@ -116,7 +106,6 @@ questionable
 unknown
 notable
 surprising
-Mark 0.00 out of 1.00
 ANSWER: notable
 
 The phrase “do so” in paragraph 3 refers to 
@@ -132,7 +121,6 @@ To point out why long-term imprisonment is preferable to execution
 To summarize the arguments of those who oppose long-term imprisonment
 To argue that execution is preferable to long-term imprisonment
 To emphasize the disadvantages of capital punishment.
-Mark 0.00 out of 1.00
 ANSWER: To summarize the arguments of those who oppose long-term imprisonment
 
 Which of the following does NOT contain the most important information in the passage? 
@@ -140,7 +128,6 @@ The deterrent argument wrongly assumes that despite the lack of evidence for its
 The determinist view of human behavior implies that people do not control their actions, so the determinist argument must be rejected.
 The protection argument must be rejected because it cannot be applied consistently to all dangerous criminals.
 Arguments for based on deterrence fail because there is no evidence that capital punishment deters murder, and because the risks outweigh the possible benefits.
-Mark 0.00 out of 1.00
 ANSWER: The deterrent argument wrongly assumes that despite the lack of evidence for its effectiveness, capital punishment might deter some murders.
 
 What did the 2006 discovery of the animal bone reveal about the lynx?
@@ -148,7 +135,6 @@ Its physical appearance was very distinctive
 Its extinction was linked to the spread of farming
 It vanished from Britain several thousand years ago
 It survived in Britain longer than was previously thought
-Mark 0.00 out of 1.00
 ANSWER: It survived in Britain longer than was previously thought
 
 What point does the writer make about large predators in the third paragraph?
@@ -156,7 +142,6 @@ Their presence can increase biodiversity
 They may cause damage to local ecosystems
 Their behaviour can alter according to the environment
 They should be reintroduced only to areas where they were native
-Mark 0.00 out of 1.00
 ANSWER: Their presence can increase biodiversity
 
 What does the writer suggest about British conservation in the fourth paragraph?
@@ -172,7 +157,6 @@ practical benefits for the fishing industry
 some short-term losses to the fishing industry
 widespread opposition from the fishing industry
 certain changes to techniques within the fishing industry
-Mark 0.00 out of 1.00
 ANSWER: practical benefits for the fishing industry
 
 According to the author, what distinguishes rewilding from other environmental campaigns?
@@ -204,7 +188,6 @@ incentive
 expensive
 unbeneficial
 profitable
-Mark 0.00 out of 1.00
 ANSWER: profitable
 
 The word "here" in the last paragraph refers to
@@ -220,7 +203,6 @@ preserve
 account for
 describe
 line up
-Mark 0.00 out of 1.00
 ANSWER: account for
 
 According to paragraph 1, the first signs of counting were found in _____
@@ -228,7 +210,6 @@ tallies
 sheep
 rocks
 animal bones
-Mark 0.00 out of 1.00
 ANSWER: animal bones
 
 According to paragraph 2, Egypt's counting system used which of the following to show numbers?
@@ -236,7 +217,6 @@ Tallies
 Pictographs
 Place values
 An inverted U
-Mark 0.00 out of 1.00
 ANSWER: Pictographs
 
 The word “complicated” in paragraph 4 is closest in meaning to ______
@@ -244,7 +224,6 @@ precise
 difficult
 simple
 definite
-Mark 0.00 out of 1.00
 ANSWER: difficult
 
 The author's description of the zero mentions which of the following?
@@ -260,7 +239,6 @@ they were invented by the Babylonians
 they show the value of each digit in a multiple-digit number
 they allowed calculations with written numerals
 they were included in the system of Roman numerals
-Mark 0.00 out of 1.00
 ANSWER: they were included in the system of Roman numerals
 
 In paragraph 7, why does the author mention "the abacus"?
@@ -268,7 +246,6 @@ To contrast it with written numbers regarding speed of calculating
 To give an example of the means of counting used after the year 1600
 To describe how sheepherders kept track of their sheep
 To mention a device invented by Al-Khwarizmi
-Mark 0.00 out of 1.00
 ANSWER: To contrast it with written numbers regarding speed of calculating
 
 According to the passage, Al-Khwarizmi's treatise was unknown in   Europe until the twelfth century because _____
@@ -276,7 +253,6 @@ it was not yet translated into Latin
 printing was not invented until then
 Arab mathematicians wanted to keep it secret
 European mathematicians were not interested in other counting systems
-Mark 0.00 out of 1.00
 ANSWER: it was not yet translated into Latin
 
 The word "supplanted" in paragraph 8 is closest in meaning to
@@ -364,7 +340,6 @@ Ways archeologists use to determine the age of objects
 Places archeologists dig to find objects
 Requirements to become archeologists
 Factors affecting the results of age of objects
-Mark 0.00 out of 1.00
 ANSWER: Ways archeologists use to determine the age of objects
 
 The word “site” in paragraph 1 is closest in meaning to _______.
@@ -372,7 +347,6 @@ view
 location
 evidence
 wreckage
-Mark 0.00 out of 1.00
 ANSWER: location
 
 According to paragraph 1, it is important to decide the age of objects found during an archeology dig because _______.
@@ -388,7 +362,6 @@ illustrate the equipment archeologists use to dig
 give an example of objects archeologists can find
 emphasize things ancient people used to work in farms
 show the development in creating things of ancient people
-Mark 0.00 out of 1.00
 ANSWER: give an example of objects archeologists can find
 
 The word “determine” in paragraph 2 is closest in meaning to ________.
@@ -444,7 +417,6 @@ lost
 bold
 lively
 foolish
-Mark 0.00 out of 1.00
 ANSWER: bold
 
 Which of the following would a traveler be LEAST likely to obtain at Fort Laramie?
@@ -452,7 +424,6 @@ Fresh water
 Food
 Formal clothing
 Lodging
-Mark 0.00 out of 1.00
 ANSWER: Formal clothing
 
 The word “others” in the passage refers to _________
@@ -460,7 +431,6 @@ posts
 wagon trains
 frontiers
 highways
-Mark 0.00 out of 1.00
 ANSWER: posts
 
 The word “boosted” in the passage is closest in meaning to _________.
@@ -468,7 +438,6 @@ influenced
 established
 raised
 maintained
-Mark 0.00 out of 1.00
 ANSWER: raised
 
 Which of the following is the most likely inference about the decision to promote gardening at forts?
@@ -476,7 +445,6 @@ It was expensive to import produce from far away
 Food brought in from outside was often spoiled
 Gardening was a way to occupy otherwise idle soldiers
 The soil near the forts was very fertile
-Mark 0.00 out of 1.00
 ANSWER: It was expensive to import produce from far away
 
 According to the passage, which of the following posed the biggest obstacle to the development of military forts?
@@ -484,7 +452,6 @@ Insufficient shelter
 Shortage of materials
 Attacks by wild animals
 Illness
-Mark 0.00 out of 1.00
 ANSWER: Illness
 
 The word “inhibited” in the passage is closest in meaning to _________
@@ -492,7 +459,6 @@ involved
 exploited
 united
 hindered
-Mark 0.00 out of 1.00
 ANSWER: hindered
 
 How did the military assist in the investigation of health problems?
@@ -516,7 +482,6 @@ the vast number of different foods we eat
 lack of a proper treatment plan
 the similarity of symptoms of the allergy to other problems
 the use of prepared formula to feed babies
-Mark 0.00 out of 1.00
 ANSWER: the similarity of symptoms of the allergy to other problems
 
 The word "symptoms" in the passage is closest in meaning to _________.
@@ -524,7 +489,6 @@ indications
 diet
 diagnosis
 prescriptions
-Mark 0.00 out of 1.00
 ANSWER: indications
 
 The phrase "set off” in the passage is closest in meaning to  __________.
@@ -532,7 +496,6 @@ relieved
 identified
 avoided
 triggered
-Mark 0.00 out of 1.00
 ANSWER: triggered
 
 What can be inferred about babies from this passage?
@@ -548,7 +511,6 @@ overly active
 unusually low activity
 excited
 inquisitive
-Mark 0.00 out of 1.00
 ANSWER: overly active
 
 The author states that the reason that infants need to avoid certain foods related to allergies has to do with the infant’s ________.
@@ -556,7 +518,6 @@ lack of teeth
 poor metabolism
 underdeveloped intestinal tract
 inability to swallow solid foods
-Mark 0.00 out of 1.00
 ANSWER: underdeveloped intestinal tract
 
 The word "these” in the passage refers to _________.
@@ -588,7 +549,6 @@ really typical
 quite easy to conquer
 less rough than others
 really dangerous
-Mark 0.00 out of 1.00
 ANSWER: less rough than others
 
 All competitors are able to
@@ -596,7 +556,6 @@ begin the race as soon as they are ready
 finish the course within 20 minutes
 swim for 12 metres
 carry out the game based on their own strength
-Mark 0.00 out of 1.00
 ANSWER: carry out the game based on their own strength
 
 Types of lilo used can be
@@ -604,7 +563,6 @@ restricted to certain ones
 varied as long as they can float
 really important
 divided into two types
-Mark 0.00 out of 1.00
 ANSWER: varied as long as they can float
 
 Competitors must
@@ -612,7 +570,6 @@ prepare their own safety clothing
 use safety clothing of the organisers
 be more than 16 years old
 use new trainers
-Mark 0.00 out of 1.00
 ANSWER: prepare their own safety clothing
 
 The Lower Falls Leap
@@ -620,7 +577,6 @@ is the most frightening part
 requires competitors to swim over ten metres
 has been taken by 3,000 athletes
 is the last challenge
-Mark 0.00 out of 1.00
 ANSWER: is the most frightening part
 
 Members in the rescue team
@@ -636,7 +592,6 @@ should buy the tickets
 could donate for some money
 should be there in the morning
 are fully charged
-Mark 0.00 out of 1.00
 ANSWER: could donate for some money
 
 Certificates of completion is
@@ -644,7 +599,6 @@ given to all people there
 only given to the winner
 not really interesting
 a great encouragement for competitors
-Mark 0.00 out of 1.00
 ANSWER: a great encouragement for competitors
 
 The word "populated" in the passage is closest in meaning to
@@ -652,7 +606,6 @@ inhabited
 exiled
 traveled
 governed
-Mark 0.00 out of 1.00
 ANSWER: inhabited
 
 The word "it" in the passage refers to
@@ -660,7 +613,6 @@ arrival
 extinction
 climate
 hunting
-Mark 0.00 out of 1.00
 ANSWER: extinction
 
 Why does the author mention "The invasion of New Zealand by the Europeans" in the passage?
@@ -676,7 +628,6 @@ They have a long history of traditional management approaches for marine resourc
 They are home to rare and unique animals.
 They are made up of 66% plant life.
 They have all been damaged by European settlers.
-Mark 0.00 out of 1.00
 ANSWER: They are home to rare and unique animals.
 
 The word "specimens" in the passage is closest in meaning to
@@ -684,7 +635,6 @@ genres
 features
 examples
 images
-Mark 0.00 out of 1.00
 ANSWER: examples
 
 According to paragraph 7, how has the Bering Sea aided life forms in the past?
@@ -692,7 +642,6 @@ By providing creatures with plentiful food
 By being home to a diverse and varied ecosystem
 By allowing transit across the great iceshelves in the Americas
 By keeping creatures cool and comfortable in the ice
-Mark 0.00 out of 1.00
 ANSWER: By allowing transit across the great iceshelves in the Americas
 
 According to the passage, which of the following is true of walruses?
@@ -700,7 +649,6 @@ They protect the surrounding ecosystem by preventing over-fishing.
 Their unique feeding habits enrich the ecosystem with nutrients.
 They are solitary animals which hunt and eat by themselves.
 They are usually found living in the deepest regions of the Bering Sea.
-Mark 0.00 out of 1.00
 ANSWER: Their unique feeding habits enrich the ecosystem with nutrients.
 
 Which of the following best expresses the essential information in the highlighted sentence?
@@ -718,7 +666,6 @@ Protection agencies have begun guarding areas known for high fish population.
 Destructive fishing methods such as drag-nets have been outlawed.
 Agreements have been made to ensure that marine resources are used carefully.
 Restrictions have been placed on amounts permitted to be fished in certain areas.
-Mark 0.00 out of 1.00
 ANSWER: Destructive fishing methods such as drag-nets have been outlawed.
 
 The word “This” in paragraph 1 refers to _______.
@@ -766,7 +713,6 @@ The first telescopes were invented by William Herschel.
 The telescopes of the 18th and 19th centuries were not very powerful.
 They are required to view most of the planets in the night sky.
 They are less useful than gravity in finding new planets.
-Mark 0.00 out of 1.00
 ANSWER: The telescopes of the 18th and 19th centuries were not very powerful.
 
 Why does the author discuss the Earth’s moon in paragraph 2?
@@ -774,7 +720,6 @@ To better explain the orbit of Pluto
 To better illustrate why Pluto was so hard to find
 To give an example of an object that is easily visible
 To suggest there are many similarities between the moon and Pluto
-Mark 0.00 out of 1.00
 ANSWER: To better illustrate why Pluto was so hard to find
 
 According to the passage, all of the following are true of Pluto EXCEPT ________.
@@ -792,7 +737,6 @@ Where would the sentence best fit?
 [B]
 [C]
 [D]
-Mark 0.00 out of 1.00
 ANSWER: [A]
 
 This reading is mainly about ________.
@@ -800,7 +744,6 @@ problems caused by migrating birds
 how birds are being hunted worldwide
 how tourism is causing a drop in bird population
 dangers to migrating birds in the Mediterranean
-Mark 0.00 out of 1.00
 ANSWER: dangers to migrating birds in the Mediterranean
 
 The purpose of the first paragraph is to describe ________.
@@ -808,7 +751,6 @@ how many birds travel large distances to and from Africa
 why some birds migrate while others do not
 why bird numbers are starting to drop in the Mediterranean
 how migrating birds are able to use stars as a tool for navigation
-Mark 0.00 out of 1.00
 ANSWER: how many birds travel large distances to and from Africa
 
 What is the biggest danger to migrating birds?
@@ -816,7 +758,6 @@ crossing the Sahara Desert
 lack of food
 being hunted by humans
 storms in the Mediterranean
-Mark 0.00 out of 1.00
 ANSWER: being hunted by humans
 
 Which of these is NOT mentioned as a way of attracting and catching birds?
@@ -832,7 +773,6 @@ birds
 hunters
 nets
 countries
-Mark 0.00 out of 1.00
 ANSWER: birds
 
 Which is true about the nets?
@@ -840,7 +780,6 @@ The nets are big and expensive.
 The nets cannot be seen by birds.
 The nets must be colorful to attract birds.
 The nets are high and visible.
-Mark 0.00 out of 1.00
 ANSWER: The nets cannot be seen by birds.
 
 Why has bird-watching become popular in Sicily?
@@ -848,7 +787,6 @@ The weather has changed and become more pleasant.
 There is now very little poaching of birds.
 Some extremely rare birds have been seen in Sicily.
 Birdsong devices are attracting more birds to the area.
-Mark 0.00 out of 1.00
 ANSWER: There is now very little poaching of birds.
 
 What is Nature Conservation Egypt doing to protect the birds?
@@ -864,7 +802,6 @@ More countries need to ban hunting to restore bird numbers.
 It’s likely that bird populations will continue to decrease.
 There needs to be more protection of desert oases.
 The only way to increase bird populations is to allow limited hunting.
-Mark 0.00 out of 1.00
 ANSWER: More countries need to ban hunting to restore bird numbers.
 
 Why are visitors afraid of going to Boston in July?
@@ -896,7 +833,6 @@ highest
 nicest
 best
 busiest
-Mark 0.00 out of 1.00
 ANSWER: busiest
 
 Which paragraph contains the information about the cost?
@@ -904,7 +840,6 @@ Paragraph 1
 Paragraph 2
 Paragraph 3
 Paragraph 4
-Mark 0.00 out of 1.00
 ANSWER: Paragraph 4
 
 The phrase “faint of heart” in the passage is closest in meaning to _________.
@@ -912,7 +847,6 @@ Lacking courage
 Lacking a heart
 Being pessimistic
 Being weak
-Mark 0.00 out of 1.00
 ANSWER: Lacking courage
 
 Which of the following is disadvantage of visiting Boston in December?
@@ -920,7 +854,6 @@ The weather is hot.
 The temperature drops.
 The cold weather may harm some visitors
 The price is high in Boston at that time.
-Mark 0.00 out of 1.00
 ANSWER: The cold weather may harm some visitors
 
 Which of the following is true about Boston, according to the passage?
@@ -928,7 +861,6 @@ Walking is the best activity in April
 The weather is good in February.
 People are hospitable and kind.
 Cycling is the most suitable activity in May
-Mark 0.00 out of 1.00
 ANSWER: Walking is the best activity in April
 
 According to the passage, when is the best time for those who want to explore the sea life?
@@ -936,7 +868,6 @@ January
 April
 June
 December
-Mark 0.00 out of 1.00
 ANSWER: April
 
 What does the passage mainly discuss?
@@ -944,7 +875,6 @@ The location of fossils in North America
 The composition of fossils
 Determining the size and weight of fossils
 Procedures for analyzing fossils
-Mark 0.00 out of 1.00
 ANSWER: The composition of fossils
 
 The word “counterpart” in the passage is closest in meaning to _________
@@ -952,7 +882,6 @@ species
 version
 change
 material
-Mark 0.00 out of 1.00
 ANSWER: version
 
 Why is fossilized bone heavier than ordinary bone?
@@ -960,7 +889,6 @@ Bone tissue solidifies with age
 The marrow cavity gradually fills with water
 The organic materials turn to stone
 Spaces within the bone fill with minerals
-Mark 0.00 out of 1.00
 ANSWER: Spaces within the bone fill with minerals
 
 The word “pores” in the passage is closest in meaning to _________
@@ -968,7 +896,6 @@ joints
 tissues
 lines
 holes
-Mark 0.00 out of 1.00
 ANSWER: holes
 
 What can be inferred about a fossil with a high degree of mineralization?
@@ -976,7 +903,6 @@ It was exposed to large amounts of mineral-laden water throughout time
 Mineralization was complete within one year of the animal’s death
 Many colorful crystals can be found in such a fossil
 It was discovered in western Canada
-Mark 0.00 out of 1.00
 ANSWER: It was exposed to large amounts of mineral-laden water throughout time
 
 Which of the following factors is most important in determining the extent of mineralization in fossil bones?
@@ -984,7 +910,6 @@ The age of the fossil
 Environmental conditions
 The location of the bone in the animal’s body
 The type of animal the bone came from
-Mark 0.00 out of 1.00
 ANSWER: Environmental conditions
 
 Why does the author compare fossils found in western Canada to those found in Florida?
@@ -992,7 +917,6 @@ To prove that a fossil’s age cannot be determined by the amount of mineralizat
 To discuss the large quantity of fossils found in both places
 To suggest that fossils found in both places were the same age
 To explain why scientists are especially interested in Canadian fossils
-Mark 0.00 out of 1.00
 ANSWER: To prove that a fossil’s age cannot be determined by the amount of mineralization
 
 The word “it” in the passage refers to _________
@@ -1000,7 +924,6 @@ hydroxyapatite
 microscopic structure
 crystal structure
 modem bone
-Mark 0.00 out of 1.00
 ANSWER: hydroxyapatite
 
 The word “detectable” in the passage is closest in meaning to _________
@@ -1008,7 +931,6 @@ sizable
 active
 moist
 apparent
-Mark 0.00 out of 1.00
 ANSWER: apparent
 
 What is this reading mainly about?
@@ -1016,7 +938,6 @@ what people think about beauty
 the history of beauty
 the world’s most beautiful people
 how beauty is power
-Mark 0.00 out of 1.00
 ANSWER: what people think about beauty
 
 What did the Egyptians do to be more attractive?
@@ -1024,7 +945,6 @@ paint their nails
 decorate their hair
 do on a diet
 do exercise
-Mark 0.00 out of 1.00
 ANSWER: paint their nails
 
 The ancient Maya hung balls between children’s eyes _________.
@@ -1048,7 +968,6 @@ known
 seen
 treated
 compared.
-Mark 0.00 out of 1.00
 
 The correct answer is: seen
  6. In paragraph 4, the babies in the study _________.
@@ -1080,7 +999,6 @@ Beauty is subjective and is different for different people.
 Beauty is something that first appeals to sight.
 Beauty is something that is held in high esteem.
 Beauty of a person depends on their eyes.
-Mark 0.00 out of 1.00
 ANSWER: Beauty is subjective and is different for different people.
 
 According to paragraph 1, all of the following are true of the South Pole EXCEPT _____.
@@ -1128,7 +1046,6 @@ calm
 strong
 unkind
 unpleasant
-Mark 0.00 out of 1.00
 ANSWER: unpleasant
 
 According to the passage, when did the exploration of the South Pole start again?
